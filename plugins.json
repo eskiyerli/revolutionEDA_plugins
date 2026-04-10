@@ -1,35 +1,38 @@
 {
   "plugins": [
     {
-      "name": "aiTerminal",
-      "version": "0.1.0",
-      "downloads": 0,
       "license": "Mozilla Public License 2.0",
       "type": "source",
       "description": "AI Terminal plugin for Revolution EDA. Integrates AI agents (Claude, Gemini) for design assistance and automation.",
-      "url": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/aiTerminal/aiTerminal.zip"
+      "name": "aiTerminal",
+      "url": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/aiTerminal/aiTerminal.zip",
+      "version": "0.1.0",
+      "downloads": 0
     },
     {
-      "name": "revedasim",
-      "version": "0.8.10",
       "license": "Proprietary",
       "type": "binary",
-      "description":"Simulation plugin for Revolution EDA using Xyce simulator. Provides netlisting and simulation capabilities for schematic designs.",
-      "binary_urls": {
-        "linux-x86_64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.13.zip",
-        "windows-amd64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.13.zip",
-        "macos-amd64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-amd64-py3.13.zip"
-      }
-    },
-    {
+      "description": "Plotting plugin for Revolution EDA. Enables visualization of simulation results using PyQtGraph.",
       "name": "revedaPlot",
+      "binary_urls": {
+        "linux-x86_64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py313.zip",
+        "windows-x64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/windows-x64-py313.zip"
+      },
       "version": "0.8.7",
+      "downloads": 0
+    },
+    {
       "license": "Proprietary",
       "type": "binary",
-      "description":"Plotting plugin for Revolution EDA. Enables visualization of simulation results using PyQtGraph.",
+      "description": "Simulation plugin for Revolution EDA using Xyce simulator. Provides netlisting and simulation capabilities for schematic designs.",
+      "name": "revedasim",
       "binary_urls": {
-        "linux-x86_64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py313.zip"
-      }
+        "linux-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.13.zip",
+        "macos-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-x86_64-py3.13.zip",
+        "windows-amd64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.13.zip"
+      },
+      "version": "0.8.10",
+      "downloads": 0
     }
   ]
 }
