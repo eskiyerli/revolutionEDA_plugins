@@ -11,15 +11,17 @@
     },
     {
       "name": "revedasim",
-      "version": "0.8.7",
+      "version": "0.8.10",
       "license": "Proprietary",
       "type": "binary",
       "description":"Simulation plugin for Revolution EDA using Xyce simulator. Provides netlisting and simulation capabilities for schematic designs.",
       "binary_urls": {
-        "linux-x86_64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py313.zip"
+        "linux-x86_64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.13.zip",
+        "windows-amd64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.13.zip",
+        "macos-amd64-py313": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-amd64-py3.13.zip"
       }
     },
-        {
+    {
       "name": "revedaPlot",
       "version": "0.8.7",
       "license": "Proprietary",
