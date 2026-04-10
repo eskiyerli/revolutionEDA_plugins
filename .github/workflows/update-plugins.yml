@@ -32,5 +32,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update plugins.json [auto-generated]"
+            git pull --rebase origin ${{ github.ref_name }}
             git push
           fi
