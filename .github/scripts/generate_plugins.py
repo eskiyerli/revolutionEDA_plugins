@@ -38,12 +38,24 @@ PLUGIN_DEFINITIONS = {
 
 # Regex patterns for platform detection
 PLATFORM_PATTERNS = {
+    r"linux-x86_64-py3\.12\.zip": "linux-x86_64-py3.12",
+    r"linux-x86_64-py312\.zip": "linux-x86_64-py312",
+    r"windows-amd64-py3\.12\.zip": "windows-amd64-py3.12",
+    r"windows-x64-py312\.zip": "windows-x64-py312",
+    r"macos-x86_64-py3\.12\.zip": "macos-x86_64-py3.12",
+    r"macos-amd64-py3\.12\.zip": "macos-amd64-py3.12",
     r"linux-x86_64-py3\.13\.zip": "linux-x86_64-py3.13",
     r"linux-x86_64-py313\.zip": "linux-x86_64-py313",
     r"windows-amd64-py3\.13\.zip": "windows-amd64-py3.13",
     r"windows-x64-py313\.zip": "windows-x64-py313",
     r"macos-x86_64-py3\.13\.zip": "macos-x86_64-py3.13",
     r"macos-amd64-py3\.13\.zip": "macos-amd64-py3.13",
+    r"linux-x86_64-py3\.14\.zip": "linux-x86_64-py3.14",
+    r"linux-x86_64-py314\.zip": "linux-x86_64-py314",
+    r"windows-amd64-py3\.14\.zip": "windows-amd64-py3.14",
+    r"windows-x64-py314\.zip": "windows-x64-py314",
+    r"macos-x86_64-py3\.14\.zip": "macos-x86_64-py3.14",
+    r"macos-amd64-py3\.14\.zip": "macos-amd64-py3.14",
 }
 
 # Version extraction from directory scanning or fallback
