@@ -14,15 +14,15 @@
       "description": "Plotting plugin for Revolution EDA. Enables visualization of simulation results using PyQtGraph.",
       "name": "revedaPlot",
       "binary_urls": {
-        "linux-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py3.12.zip",
         "linux-x86_64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py3.14.zip",
-        "windows-amd64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/windows-amd64-py3.14.zip",
+        "macos-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/macos-x86_64-py3.12.zip",
+        "linux-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py3.12.zip",
+        "macos-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/macos-x86_64-py3.13.zip",
+        "linux-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py3.13.zip",
+        "windows-amd64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/windows-amd64-py3.13.zip",
         "macos-x86_64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/macos-x86_64-py3.14.zip",
         "windows-amd64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/windows-amd64-py3.12.zip",
-        "macos-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/macos-x86_64-py3.13.zip",
-        "macos-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/macos-x86_64-py3.12.zip",
-        "windows-amd64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/windows-amd64-py3.13.zip",
-        "linux-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/linux-x86_64-py3.13.zip"
+        "windows-amd64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedaPlot/windows-amd64-py3.14.zip"
       },
       "version": "0.8.10"
     },
@@ -32,15 +32,15 @@
       "description": "Simulation plugin for Revolution EDA using Xyce simulator. Provides netlisting and simulation capabilities for schematic designs.",
       "name": "revedasim",
       "binary_urls": {
-        "linux-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.12.zip",
         "linux-x86_64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.14.zip",
-        "windows-amd64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.14.zip",
+        "macos-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-x86_64-py3.12.zip",
+        "linux-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.12.zip",
+        "macos-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-x86_64-py3.13.zip",
+        "linux-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.13.zip",
+        "windows-amd64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.13.zip",
         "macos-x86_64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-x86_64-py3.14.zip",
         "windows-amd64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.12.zip",
-        "macos-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-x86_64-py3.13.zip",
-        "macos-x86_64-py3.12": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/macos-x86_64-py3.12.zip",
-        "windows-amd64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.13.zip",
-        "linux-x86_64-py3.13": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/linux-x86_64-py3.13.zip"
+        "windows-amd64-py3.14": "https://raw.githubusercontent.com/eskiyerli/revolutionEDA_plugins/main/revedasim/windows-amd64-py3.14.zip"
       },
       "version": "0.8.10"
     }
